@@ -8,6 +8,6 @@ public class Controller {
 
     @RequestMapping
     public String index(){
-        return "HELLO, MY FIRST SPRINGBOOT APP!!!!!!!!!!!!7";
+        return "HELLO, MY FIRST SPRINGBOOT APP!!!!!!!!!!!!8";
     }
 }
